@@ -18,3 +18,4 @@ for log in logs:
 
 for ip, count in fail_counts.items():
     print(f"{ip} failed {count} times")
+    
