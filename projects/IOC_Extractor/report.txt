@@ -1,0 +1,5 @@
+Malicious activity from 192.168.1.105.
+C2 server at malware.evil.com and c2.badactor.net.
+Hash: d41d8cd98f00b204e9800998ecf8427e
+Vulnerability exploited: CVE-2024-1234
+Contact: attacker@evil.com

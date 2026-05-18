@@ -1,0 +1,7 @@
+Type,Value
+IPs,192.168.1.105
+Domains,malware.evil.com
+Domains,c2.badactor.net
+Emails,attacker@evil.com
+MD5 Hashes,d41d8cd98f00b204e9800998ecf8427e
+CVEs,CVE-2024-1234
